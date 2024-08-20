@@ -37,7 +37,12 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 
+
+
+
 **Introduction to Software Engineering**
+
+
 What is Software Engineering?
 Software engineering is the systematic application of engineering principles to the creation, development, operation, and maintenance of software systems. This disciplined approach ensures that software is reliable, efficient, maintainable, and meets user needs. By treating software development as an engineering discipline, it applies best practices to create software solutions that are robust, scalable, and secure. The outcome of software engineering is an efficient and reliable software product.
 
