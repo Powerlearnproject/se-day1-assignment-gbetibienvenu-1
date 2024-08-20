@@ -183,16 +183,3 @@ Involves testing the complete, integrated system to ensure it meets all specifie
 ### Acceptance Testing
 
 Evaluates the software in real-world scenarios to ensure it meets the needs of the end-users and is ready for deployment. This final stage of testing is critical for validating that the software fulfills its intended purpose.
-
-## Quiz 1
-
-**Question:** Which of the following best describes software engineering?
-
-**Options:**
-- a) The study of hardware components
-- b) The process of designing, developing, and maintaining software
-- c) The analysis of networking protocols
-- d) The management of data storage systems
-
-**Answer:** b) The process of designing, developing, and maintaining software
-
